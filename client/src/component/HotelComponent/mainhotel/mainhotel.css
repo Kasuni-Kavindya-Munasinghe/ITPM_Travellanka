@@ -1,0 +1,21 @@
+.imgsint4 {
+    width: 40%;
+    cursor: pointer;
+}
+.imgsint333 {
+    width: 100%;
+    cursor: relative;
+}
+
+
+body {
+    font-family: "Lucida Console", "Copperplate", monospace;
+    text-align: center;
+      background-color: rgb(69, 240, 89);
+      background-image: url("C:\Users\MSI GAMING\Desktop\myproject\client\src\Images\hihi.jpg");
+    }
+
+    h1{
+        color: rgb(0, 0, 0);
+    }
+

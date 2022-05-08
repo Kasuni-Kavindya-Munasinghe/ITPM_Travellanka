@@ -1,0 +1,21 @@
+.imgsint1 {
+    width: 40%;
+    cursor: pointer;
+}
+
+.imgsint444 {
+    width: 100%;
+    cursor: relative;
+}
+
+h4{
+    color: rgb(0, 0, 0);
+}
+
+tbody{
+    color: rgb(0, 0, 0); 
+}
+
+.form-group{
+    background-color:  rgba(20, 155, 208, 0.611);
+}
