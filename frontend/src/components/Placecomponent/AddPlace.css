@@ -1,0 +1,12 @@
+body {
+
+    font-family: "Lucida Console", "Copperplate", monospace;
+  
+      background-image: url("C:\TravelLanka\frontend\src\images\hihi.jpg");
+  
+    }
+.container{
+    background-color: aliceblue;
+    border-radius: 30px;
+
+}
