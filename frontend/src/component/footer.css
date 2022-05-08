@@ -1,0 +1,36 @@
+.main-footer{
+    color:rgb(255, 255, 255);
+    background-color: #0f3c3edc;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    }
+
+    .col{
+        
+    color:rgb(255, 255, 255);
+    
+    position: center;
+    }
+   
+    .col li{
+        
+        color:rgb(255, 255, 255);
+        
+        margin-left: 10px;
+        }
+
+
+
+
+    .col h4{
+        
+        color:rgb(0, 255, 60);
+        }
+
+        .col2 h4{
+            color:rgb(0, 255, 60);
+        }
+
+      
