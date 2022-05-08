@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:'Poppins', sans-serif;
+    background: url(../../../Images/hihi.jpg);
+    background-attachment: fixed;
+}
+
+header{
+    position: relative;
+    max-width: auto ;
+    margin: 2px auto;
+    padding: 10px;
+    background: #0f3c3edc ;
+    box-sizing: border-box;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.2);
+
+}
+
+.logo{
+    padding: 10px 10px;
+    background: #16777c;
+    box-sizing: border-box;
+
+}
+
+.navlinks{
+    float: right;
+}
+
+.flex{
+    display: flex;
+  }
+  .flex_space{
+    display: flex;
+    justify-content: space-between;
+  }
+
+.navlinks ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+     list-style-type: none;
+        margin: 10px 15px 10px 15px;
+        padding: 0;
+        overflow: hidden;
+        background-color: #b2e0e3dc;
+        border-radius: 20px;
+  
+  }
+
+  .navlinks ul li{
+    
+      list-style: none;
+  }
+  .navlinks ul li a{
+        display:block;
+      color: rgb(255, 255, 255);
+      margin:10px 20px;
+      padding: 5px 5px 10px 10px;
+      transition: 0.5s;
+      text-decoration: none;
+      color: #0f3c3edc;
+
+  }
+
+  .navlinks ul li a:hover {
+    background-color: rgb(36, 75, 35);
+    border-radius: 10px;
+  }
+  
+  .navlinks ul li a:hover:not(.active) {
+    background-color: #011a1c6a;
+    border-radius: 10px;
+  }
+
+  b {
+    color: rgb(0, 0, 0);
+    margin:2px 40px;
+    padding: 20px 10px 5px 20px;
+    text-decoration: none;
+    background-size: cover;
+    display:block;
+  }

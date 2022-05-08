@@ -1,0 +1,23 @@
+.searchBarDoc.A {
+    width: 200px;
+}
+
+
+/* .DocSearchContainer {
+    margin-left: 200px;
+} */
+
+.imgsdoc1 {
+    width: 100%;
+    /* margin-left: 500px; */
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+    /* padding-top: 10px; */
+    /* display: inline; */
+    /* padding-bottom: 20px; */
+}
+
+.containerg {
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr;
+}

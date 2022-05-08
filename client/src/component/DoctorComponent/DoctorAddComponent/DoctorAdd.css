@@ -1,0 +1,35 @@
+        .DocContainer {
+            margin-left: 20%
+        }
+        
+        .DoctorAdd h1 {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bold;
+            color: #23345d;
+            font-size: 45px;
+        }
+        
+        .form-control-doc {
+            width: 700px;
+        }
+        
+        .AddDocForm {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-right: 700px;
+            max-width: 700px;
+        }
+        
+        .btn-primary-doc {
+            background-color: #30a8a1;
+            border: none;
+            color: white;
+            padding: 10px 10px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 4px;
+            cursor: pointer;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        }
