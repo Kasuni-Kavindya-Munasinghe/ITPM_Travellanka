@@ -1,8 +1,7 @@
 /*
 import React, { useState } from 'react'
 import axios from 'axios';
-//import HotelSideMenu from '../HotelSideMenuComponent/HotelSideMenu'
-//import Footer from '../footer/footer'
+
 
 const UpdatePlace = (prop) => {
 

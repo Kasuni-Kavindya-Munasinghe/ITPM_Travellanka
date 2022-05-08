@@ -27,16 +27,16 @@ return (
     <div class="containerg">
        
             <div>
-        <InventorySideMenu/>
+        
         </div>
         <div>
             <div className="IntSearchContainer">
-            <div className="searchInventory">
+            <div className="searchPlace">
         <br/>
-        <div className="container" id="searchInventoryForm">
-        <h1 className="searchInventoryDetail">SEARCH INVENTORY DETAILS </h1><br/><br/><br/>
-        <h2> Enter Production Name To View The Product Details</h2><br/>
-        <input className="searchBarInt.A" type="text" placeholder="enter product name" onChange={(e) => {
+        <div className="container" id="searchPlaceForm">
+        <h1 className="searchPlaceDetail">SEARCH Place DETAILS </h1><br/><br/><br/>
+        <h2> Enter Place Name To View The Place Details</h2><br/>
+        <input className="searchBarInt.A" type="text" placeholder="enter place name" onChange={(e) => {
             setSearch(e.target.value);
         }}/>
         <br/><br/>
@@ -45,7 +45,7 @@ return (
         <table className="table.A">
             <thead className="thead-light">
                 <tr>
-                    <th> Inventory Details </th>
+                    <th> Place Details </th>
                 </tr>
             </thead>
             <tbody>
